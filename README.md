@@ -1,1 +1,3 @@
-# Webpack_And_TypeScript
+# Webpack And TypeScript
+
+- Tutorials for Webpack and TypeScript
